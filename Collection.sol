@@ -1,26 +1,5 @@
 // SPDX-License-Identifier: MIT LICENSE
 
-/*
-N2D NFT ERC721 NFT Smart Contract.
-
-Follow/Subscribe Youtube, Github, IM, Tiktok
-for more amazing content!!
-@Net2Dev
-███╗░░██╗███████╗████████╗██████╗░██████╗░███████╗██╗░░░██╗
-████╗░██║██╔════╝╚══██╔══╝╚════██╗██╔══██╗██╔════╝██║░░░██║
-██╔██╗██║█████╗░░░░░██║░░░░░███╔═╝██║░░██║█████╗░░╚██╗░██╔╝
-██║╚████║██╔══╝░░░░░██║░░░██╔══╝░░██║░░██║██╔══╝░░░╚████╔╝░
-██║░╚███║███████╗░░░██║░░░███████╗██████╔╝███████╗░░╚██╔╝░░
-╚═╝░░╚══╝╚══════╝░░░╚═╝░░░╚══════╝╚═════╝░╚══════╝░░░╚═╝░░░
-THIS CONTRACT IS AVAILABLE FOR EDUCATIONAL 
-PURPOSES ONLY. YOU ARE SOLELY REPONSIBLE 
-FOR ITS USE. I AM NOT RESPONSIBLE FOR ANY
-OTHER USE. THIS IS TRAINING/EDUCATIONAL
-MATERIAL. ONLY USE IT IF YOU AGREE TO THE
-TERMS SPECIFIED ABOVE.
-*/
-
-
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 
